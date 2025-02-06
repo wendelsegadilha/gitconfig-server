@@ -1,0 +1,3 @@
+greeting-service:
+  greeting: "Olá"
+  default-value: "Perf"
